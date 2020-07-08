@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayAnimal", "ArrayTest\ArrayAnimal.csproj", "{60DEB18C-B0C7-4EC6-9D77-71B39A8241BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60DEB18C-B0C7-4EC6-9D77-71B39A8241BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DEB18C-B0C7-4EC6-9D77-71B39A8241BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DEB18C-B0C7-4EC6-9D77-71B39A8241BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DEB18C-B0C7-4EC6-9D77-71B39A8241BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6461A797-01C5-4364-B8BF-9FF3435A93A5}
+	EndGlobalSection
+EndGlobal
